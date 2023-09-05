@@ -1,0 +1,58 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+   }
+.navbar-brand{
+  margin-left: 0.5em;
+}
+.container-fluid{
+  background-color: rgb(123, 123, 109);
+}
+
+header{
+    background-color: rgb(31, 195, 140);
+  }
+h1{
+    color: grey;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+body{
+  background-color: rgb(16, 220, 169);
+  font-family:monospace;
+}
+
+.text-center{
+  font-family:fantasy;
+  color:rgb(127, 115, 98)
+}
+#mujer{
+  background-color: rgb(42, 163, 165);
+  text-align: center;
+}
+#hombre{
+  background-color: rgb(42, 163, 165);
+  text-align: center;
+
+}
+#niños{
+  background-color: rgb(42, 163, 165);
+  text-align: center;
+}
+
+footer{
+  color: rgb(29, 216, 185);
+  background-color: rgb(36, 34, 34);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
